@@ -10,6 +10,7 @@ You Can **Contact** Me by My **Discord** Account Below :facepunch: <br>
 **Dc: 𝕾𝖟𝖒𝖊𝖑𝖈 𝖂𝖊 𝕿𝖗𝖚𝖘𝖙#9452**
 
 > [ Stuff I Use Most ]
+> [ Based ]
 <div style="display: flex;">
    
   <img alt="Bash" src="https://img.shields.io/badge/bash%20-%2320232a.svg?&style=for-the-badge&logo=gnubash&logoColor=white"/>
@@ -24,16 +25,26 @@ You Can **Contact** Me by My **Discord** Account Below :facepunch: <br>
   <img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
 </div>
 
+> [ Also ]
+
+<div style="display: flex;"> 
+<img alt="GitHub" src="https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=white"/>
+<img alt="Linktr.ee" src="https://img.shields.io/badge/linktree-black?style=for-the-badge&logo=linktree&logoColor=darkgreen"/>
+<img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
+<img alt="Obsidian.md" src="https://img.shields.io/badge/Obsidian-black.svg?style=for-the-badge&logo=obsidian&logoColor=%23483699"/>
+<img alt="L" src="
+</div>
+
 <br>
 
-![Ashkan's github stats](https://github-readme-stats.vercel.app/api?username=serainox420&show_icons=true&theme=gotham) <br>
+![Silver's github stats](https://github-readme-stats.vercel.app/api?username=serainox420&show_icons=true&theme=gotham) <br>
 
 <br>
 
 ### [ My Projects ]
 ##### ================================================
+
 <div style="display: flex;">
-   
   <img alt="SC" src="https://img.shields.io/badge/Szmelc_Commander%20-%2320232a.svg?&style=for-the-badge&logo=gnubash&logoColor=white"/>
   <img alt="Scanner" src="https://img.shields.io/badge/Server_scanner%20-%2320232a.svg?&style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="Obsidian" src="https://img.shields.io/badge/Obsidian_manager%20-%2320232a.svg?&style=for-the-badge&logo=git&logoColor=white"/>
