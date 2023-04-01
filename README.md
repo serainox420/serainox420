@@ -3,7 +3,7 @@
 
 Im *Silverainox*, the figure behind *Szmelc.INC* ! :tm: <br>
 Im **Self Made Software Engineer** and **Developer**. :disguised_face:   <br>
-Im *Intrested* in **solving complicated problems using simple solutions**. :thinking:  <br>
+Im *Intrested* in **solving complex problems using simple solutions**. :thinking:  <br>
 Feel Free To Reach Out & Ask Questions :alien: <br>
 You Can **Contact** Me by My **Discord** Account Below :point_down: <br>
 
