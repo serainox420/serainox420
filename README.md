@@ -1,11 +1,11 @@
 ### Hello World! 👋
-> README Mk I
+> README Mk II
 
-Im *Silverainox*, figure behind *Szmelc.INC* ! :smiley: <br>
-Im **Self Made Software Engineer** and **Ethical Hacker**. ... :wink: <br>
-Im *Intrested* in **solving complicated problems using simple solutions**. :heart: <br>
-Feel Free To Reach Out & Ask Questions :kissing_heart: <br>
-You Can **Contact** Me by My **Discord** Account Below :facepunch: <br>
+Im *Silverainox*, the figure behind *Szmelc.INC* ! :tm: <br>
+Im **Self Made Software Engineer** and **Ethical Hacker**. :disguised_face:   <br>
+Im *Intrested* in **solving complicated problems using simple solutions**. :thinking:  <br>
+Feel Free To Reach Out & Ask Questions :alien: <br>
+You Can **Contact** Me by My **Discord** Account Below :point_down: <br>
 
 **Dc: 𝕾𝖟𝖒𝖊𝖑𝖈 𝖂𝖊 𝕿𝖗𝖚𝖘𝖙#9452**
 
@@ -31,8 +31,8 @@ You Can **Contact** Me by My **Discord** Account Below :facepunch: <br>
 <img alt="GitHub" src="https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=white"/>
 <img alt="Linktr.ee" src="https://img.shields.io/badge/linktree-black?style=for-the-badge&logo=linktree&logoColor=darkgreen"/>
 <img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
-<img alt="Obsidian.md" src="https://img.shields.io/badge/Obsidian-black.svg?style=for-the-badge&logo=obsidian&logoColor=%23483699"/>
-<img alt="L" src="
+<img alt="Obsidian.md" src="https://img.shields.io/badge/Obsidian-black.svg?style=for-the-badge&logo=obsidian&logoColor=%23483699&"/>
+<img alt="L" src=""/>
 </div>
 
 <br>
@@ -45,12 +45,14 @@ You Can **Contact** Me by My **Discord** Account Below :facepunch: <br>
 ##### ================================================
 
 <div style="display: flex;">
+
   <img alt="SC" src="https://img.shields.io/badge/Szmelc_Commander%20-%2320232a.svg?&style=for-the-badge&logo=gnubash&logoColor=white"/>
   <img alt="Scanner" src="https://img.shields.io/badge/Server_scanner%20-%2320232a.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="Obsidian" src="https://img.shields.io/badge/Obsidian_manager%20-%2320232a.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-  <img alt="" src=""/>
+  <img alt="Obsidian" src="https://img.shields.io/badge/Obsidian_manager%20-%2320232a.svg?&style=for-the-badge&logo=git&logoColor=white"/>\
+  > ADD MY OTHER PROJECTS ...
 </div>
 
+Shells [under dev atm]
 <div style="display: flex;">
   <img alt="Shmelc" src="https://img.shields.io/badge/shmelc%20-%2320232a.svg?&style=for-the-badge&logo=awesomelists&logoColor=white"/>
   <img alt="Shmelc" src="https://img.shields.io/badge/bashton%20-%2320232a.svg?&style=for-the-badge&logo=hyper&logoColor=white"/>
