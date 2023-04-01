@@ -9,22 +9,18 @@ You Can **Contact** Me by My **Discord** Account Below :facepunch: <br>
 
 **Dc: 𝕾𝖟𝖒𝖊𝖑𝖈 𝖂𝖊 𝕿𝖗𝖚𝖘𝖙#9452**
 
-### [ Stuff I Work With ]
-[ Based ]
+### [ Stuff Im Into ]
 
 <div style="display: flex;">
+  [ 1 ] 
   <img alt="Bash" src="https://img.shields.io/badge/bash%20-%2320232a.svg?&style=for-the-badge&logo=gnubash&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-</div>
-
-[ Also ]
-<div style="display: flex;">
+  
+  [ 2 ] 
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 </div>
 
-
-### [ Stuff I Work On ]
 > [ Szmelc Originals ] (currently in development)
 
 <div style="display: flex;">
