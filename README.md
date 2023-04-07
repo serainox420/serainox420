@@ -48,7 +48,7 @@ You Can **Contact** Me by My **Discord** Account Below :point_down: <br>
 
   <img alt="SC" src="https://img.shields.io/badge/Szmelc_Commander%20-%2320232a.svg?&style=for-the-badge&logo=gnubash&logoColor=white"/>
   <img alt="Scanner" src="https://img.shields.io/badge/Server_scanner%20-%2320232a.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="Obsidian" src="https://img.shields.io/badge/Obsidian_manager%20-%2320232a.svg?&style=for-the-badge&logo=git&logoColor=white"/>\
+  <img alt="GitNFORCE" src="https://img.shields.io/badge/Git_NForce%20-%2320232a.svg?&style=for-the-badge&logo=git&logoColor=white"/>\
   > ADD MY OTHER PROJECTS ...
 </div>
 
@@ -62,6 +62,7 @@ Shells [under dev atm]
 ##### ================================================
 
 > /
+
 
 > “Microsoft Takedown In Progress”\
 > [Executing Armaggeddon.sh] ~ [###_______] [30%]
