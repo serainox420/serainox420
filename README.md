@@ -1,7 +1,12 @@
-### Hello World! 👋
-> README Mk II
+╔═════════════════════════╗\
+║▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄║\
+╠═════════════════════════╣\
+║•.˜”*°• (っ◔◡◔)っ 💾 𝕾𝖟𝖒𝖊𝖑𝖈 𝕴𝕹𝕮 ♥ •°*”       ║\
+╠═════════════════════════╣\
+║▀▄▀▄▀▄▀▄▀▄[SILVER-X.6-]▄▀▄▀▄▀▄║\
+╚═════════════════════════╝
 
-Im *Silverainox*, the figure behind *Szmelc.INC* ! :tm: <br>
+I am *Silverainox*, figure behind *Szmelc.INC* ! :tm: <br>
 Im **Self Made Software Engineer** and **Developer**. :disguised_face:   <br>
 Im *Intrested* in **solving complex problems using simple solutions**. :thinking:  <br>
 Feel Free To Reach Out & Ask Questions :alien: <br>
@@ -12,7 +17,6 @@ You Can **Contact** Me by My **Discord** Account Below :point_down: <br>
 > [ Stuff I Use Most ]
 > [ Based ]
 <div style="display: flex;">
-   
   <img alt="Bash" src="https://img.shields.io/badge/bash%20-%2320232a.svg?&style=for-the-badge&logo=gnubash&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
@@ -36,6 +40,10 @@ You Can **Contact** Me by My **Discord** Account Below :point_down: <br>
 </div>
 
 <br>
+
+<div style="display: flex;">
+     <img alt="HelloWorld" src="https://i.imgur.com/pclojHZ.png?&style=for-the-badge&logo=gnubash&logoColor=white"/>
+</div>
 
 ![Silver's github stats](https://github-readme-stats.vercel.app/api?username=serainox420&show_icons=true&theme=gotham) <br>
 
@@ -63,10 +71,16 @@ Shells [under dev atm]
 
 > /
 
-
 > “Microsoft Takedown In Progress”\
 > [Executing Armaggeddon.sh] ~ [###_______] [30%]
 
+
+### *[Szmelc Commander, now on Floppy Disks!]*
+
+<div style="display: flex;">
+     <img alt="HelloWorld" src="https://i.imgur.com/onFv25U.png?&style=for-the-badge&logo=gnubash&logoColor=white"/>
+
+</div>
 
 > I cloned this backbone from [Chamepp]\
 > [https://github.com/Chamepp]
