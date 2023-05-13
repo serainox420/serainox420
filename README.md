@@ -12,7 +12,7 @@ Im *Intrested* in **solving complex problems using simple solutions**. :thinking
 Feel Free To Reach Out & Ask Questions :alien: <br>
 You Can **Contact** Me by My **Discord** Account Below :point_down: <br>
 
-**Dc: 𝕾𝖟𝖒𝖊𝖑𝖈 𝖂𝖊 𝕿𝖗𝖚𝖘𝖙#9452**
+**Dc: $X#9452**
 
 > [ Stuff I Use Most ]
 > [ Based ]
