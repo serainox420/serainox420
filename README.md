@@ -5,11 +5,6 @@
 ╠═════════════════════════╣\
 ║▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄║\
 ╚═════════════════════════╝
-<div style="display: flex;"> 
-<img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
-<img alt="MX Linux" src="https://img.shields.io/badge/MX_Linux-1D8C16?style=for-the-badge&logo=mx-linux&logoColor=white"/>
-<img alt="antiX Linux" src="https://img.shields.io/badge/antiX_Linux-2E2E2E?style=for-the-badge&logo=antix-linux&logoColor=white"/>
-</div> 
 
 I am *Silverainox*, man behind *GNU Szmelc* ! :tm: <br>
 **Self Made Software Engineer** and **Debian Developer**. :disguised_face:   <br>
@@ -18,6 +13,12 @@ Feel Free To Reach Out & Ask Questions :alien: <br>
 You Can **Contact** Me by My **Discord** Account Below :point_down: <br>
 
 ## **Dc: $X#9452**
+
+<div style="display: flex;"> 
+<img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
+<img alt="MX Linux" src="https://img.shields.io/badge/MX_Linux-1D8C16?style=for-the-badge&logo=mx-linux&logoColor=white"/>
+<img alt="antiX Linux" src="https://img.shields.io/badge/antiX_Linux-2E2E2E?style=for-the-badge&logo=antix-linux&logoColor=white"/>
+</div> 
 
 ### [ My Organizations ]
 
