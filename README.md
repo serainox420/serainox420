@@ -5,6 +5,11 @@
 ╠═════════════════════════╣\
 ║▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄║\
 ╚═════════════════════════╝
+<div style="display: flex;"> 
+<img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
+<img alt="MX Linux" src="https://img.shields.io/badge/MX_Linux-1D8C16?style=for-the-badge&logo=mx-linux&logoColor=white"/>
+<img alt="antiX Linux" src="https://img.shields.io/badge/antiX_Linux-2E2E2E?style=for-the-badge&logo=antix-linux&logoColor=white"/>
+</div> 
 
 I am *Silverainox*, man behind *GNU Szmelc* ! :tm: <br>
 **Self Made Software Engineer** and **Debian Developer**. :disguised_face:   <br>
@@ -39,6 +44,7 @@ You Can **Contact** Me by My **Discord** Account Below :point_down: <br>
 <div style="display: flex;">
   <img alt="Bash" src="https://img.shields.io/badge/bash%20-%2320232a.svg?&style=for-the-badge&logo=gnubash&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+    <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
   <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 </div>
 
