@@ -14,6 +14,8 @@ You Can **Contact** Me by My **Discord** Account Below :point_down: <br>
 
 **Dc: $X#9452**
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serainox420&hide=php,c,vim%20script,objective-c,actionscript,roff,javascript,html,smali,css,java,&langs_count=3&theme=nord)]
+
 > [ Stuff I Use Most ]
 > [ Based ]
 <div style="display: flex;">
