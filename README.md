@@ -1,24 +1,41 @@
 ╔═════════════════════════╗\
 ║▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄║\
 ╠═════════════════════════╣\
-║_•˜”*°• (っ◔◡◔)っ 💾 𝕾𝖟𝖒𝖊𝖑𝖈 𝕴𝕹𝕮 ♥ •°*”   ║\
+║ GNU SZMELC ═ Silverainox ═ SilverX ═ ║\
 ╠═════════════════════════╣\
-║▀▄▀▄▀▄▀▄▀▄[SILVER-X.6-]▄▀▄▀▄▀▄║\
+║▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄║\
 ╚═════════════════════════╝
 
-I am *Silverainox*, figure behind *Szmelc.INC* ! :tm: <br>
-Im **Self Made Software Engineer** and **Developer**. :disguised_face:   <br>
+I am *Silverainox*, man behind *GNU Szmelc* ! :tm: <br>
+**Self Made Software Engineer** and **Debian Developer**. :disguised_face:   <br>
 Im *Intrested* in **solving complex problems using simple solutions**. :thinking:  <br>
 Feel Free To Reach Out & Ask Questions :alien: <br>
 You Can **Contact** Me by My **Discord** Account Below :point_down: <br>
 
-**Dc: $X#9452**
+## **Dc: $X#9452**
+
+### [ My Organizations ]
+
+<div style="display: flex;"> 
+    <a href="https://github.com/GNU-Szmelc" target="_blank"><img alt="GNU-Szmelc" src="https://img.shields.io/badge/GNU--Szmelc-000000?style=for-the-badge&logo=gnu&logoColor=lime" /></a>
+<a href="https://github.com/Chimera-INC" target="_blank"><img alt="Chimera Project" src="https://img.shields.io/badge/Chimera%20Project-000000?style=for-the-badge&logo=gnu-bash&logoColor=lime" /></a>
+</div> 
+
+### [ Notable Projects ]
+> GNU Szmelc
+<div style="display: flex;"> 
+<a href="https://github.com/GNU-Szmelc/CommanDOS_x86_64" target="_blank"><img alt="CommanDOS_x86_64" src="https://img.shields.io/badge/CommanDOS_x86__64-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white" /></a>
+    </div> 
+    <div style="display: flex;"> 
+<a href="https://github.com/GNU-Szmelc/Commander_x64" target="_blank"><img alt="Commander_x64" src="https://img.shields.io/badge/Commander_x64-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=2E2E2E" /></a>
+
+</div> 
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serainox420&hide=php,c,vim%20script,objective-c,actionscript,roff,javascript,html,smali,css,java,&langs_count=3&theme=gotham) \
 ![Silver's github stats](https://github-readme-stats.vercel.app/api?username=serainox420&show_icons=true&theme=gotham)
 
-> [ Stuff I Use Most ]
-> [ Based ]
+> [ Stuff I Use ]
 <div style="display: flex;">
   <img alt="Bash" src="https://img.shields.io/badge/bash%20-%2320232a.svg?&style=for-the-badge&logo=gnubash&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
@@ -39,52 +56,6 @@ You Can **Contact** Me by My **Discord** Account Below :point_down: <br>
 <img alt="Linktr.ee" src="https://img.shields.io/badge/linktree-black?style=for-the-badge&logo=linktree&logoColor=darkgreen"/>
 <img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
 <img alt="Obsidian.md" src="https://img.shields.io/badge/Obsidian-black.svg?style=for-the-badge&logo=obsidian&logoColor=%23483699&"/>
-<img alt="L" src=""/>
 </div>
 
-<br>
-
-<div style="display: flex;">
-     <img alt="HelloWorld" src="https://i.imgur.com/pclojHZ.png?&style=for-the-badge&logo=gnubash&logoColor=white"/>
-</div>
-
-<br>
-
-<br>
-
-### [ My Projects ]
-##### ================================================
-
-<div style="display: flex;">
-
-  <img alt="SC" src="https://img.shields.io/badge/Szmelc_Commander%20-%2320232a.svg?&style=for-the-badge&logo=gnubash&logoColor=white"/>
-  <img alt="Scanner" src="https://img.shields.io/badge/Server_scanner%20-%2320232a.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="GitNFORCE" src="https://img.shields.io/badge/Git_NForce%20-%2320232a.svg?&style=for-the-badge&logo=git&logoColor=white"/>\
-  > ADD MY OTHER PROJECTS ...
-</div>
-
-Shells [under dev atm]
-<div style="display: flex;">
-  <img alt="Shmelc" src="https://img.shields.io/badge/shmelc%20-%2320232a.svg?&style=for-the-badge&logo=awesomelists&logoColor=white"/>
-  <img alt="Shmelc" src="https://img.shields.io/badge/bashton%20-%2320232a.svg?&style=for-the-badge&logo=hyper&logoColor=white"/>
-  <img alt="Shmelc" src="https://img.shields.io/badge/ghost.sh%20-%2320232a.svg?&style=for-the-badge&logo=ghostery&logoColor=white"/>
-</div>
-
-##### ================================================
-
-> /
-
-> “Microsoft Takedown In Progress”\
-> [Executing Armaggeddon.sh] ~ [###_______] [30%]
-
-
-### *[Szmelc Commander, now on Floppy Disks!]*
-
-<div style="display: flex;">
-     <img alt="HelloWorld" src="https://i.imgur.com/onFv25U.png?&style=for-the-badge&logo=gnubash&logoColor=white"/>
-
-</div>
-> I cloned this backbone from [Chamepp]\
-> [https://github.com/Chamepp]
-Dude deserves that credit :)
 <br>
