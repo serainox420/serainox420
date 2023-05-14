@@ -14,7 +14,8 @@ You Can **Contact** Me by My **Discord** Account Below :point_down: <br>
 
 **Dc: $X#9452**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serainox420&hide=php,c,vim%20script,objective-c,actionscript,roff,javascript,html,smali,css,java,&langs_count=3&theme=nord)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serainox420&hide=php,c,vim%20script,objective-c,actionscript,roff,javascript,html,smali,css,java,&langs_count=3&theme=gotham) \
+![Silver's github stats](https://github-readme-stats.vercel.app/api?username=serainox420&show_icons=true&theme=gotham)
 
 > [ Stuff I Use Most ]
 > [ Based ]
@@ -47,7 +48,7 @@ You Can **Contact** Me by My **Discord** Account Below :point_down: <br>
      <img alt="HelloWorld" src="https://i.imgur.com/pclojHZ.png?&style=for-the-badge&logo=gnubash&logoColor=white"/>
 </div>
 
-![Silver's github stats](https://github-readme-stats.vercel.app/api?username=serainox420&show_icons=true&theme=gotham) <br>
+<br>
 
 <br>
 
