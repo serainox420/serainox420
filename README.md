@@ -20,7 +20,6 @@ You Can **Contact** Me by My **Discord** Account Below :point_down: <br>
 <div style="display: flex;">
   <img alt="Bash" src="https://img.shields.io/badge/bash%20-%2320232a.svg?&style=for-the-badge&logo=gnubash&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-    <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
   <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 </div>
 
