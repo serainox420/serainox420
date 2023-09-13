@@ -1,8 +1,8 @@
 I am *Silverainox*, man behind *GNU Szmelc* ! :tm: <br>
 **Self Made Software Engineer** and **Linux Native Developer**. :disguised_face:   <br>
 Im *Intrested* in **solving complex problems using simple solutions**. :thinking:  <br>
-Feel Free To Reach Out & Ask Questions :alien: <br>
-You Can **Contact** Me by My **Discord** Account Below :point_down: <br>
+Feel free to reach out & ask questions :alien: <br>
+You can **contact** Me by My **Discord** tag below :point_down: <br>
 
 #### **Discord: sx66 / $X#9452**
 
