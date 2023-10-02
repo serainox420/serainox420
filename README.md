@@ -1,7 +1,7 @@
 # Hey there!
 I'm Silverainox, the mind behind GNU Szmelc :tm: \
 I'm a **Self-Made Software Engineer** and a devoted **Linux Power User** :computer:. \
-My passion lies in **solving complex problems with elegant, straightforward solutions** :bulb:. \
+My passion lies in **solving complex problems with simple solutions** :bulb:. \
 Don't hesitate to reach out and ask any questions :alien:. You can contact me on Discord:
 
 **Discord:** sx66 / $X#9452
