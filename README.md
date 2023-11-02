@@ -1,10 +1,13 @@
-# Hey there!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=5500&pause=1500&color=4AF7ADD6&multiline=true&random=false&width=450&lines=Hello+World!)](https://git.io/typing-svg)
+
 I'm Silverainox, the mind behind GNU Szmelc :tm: \
 I'm a **Self-Made Software Engineer** and a devoted **Linux Power User** :computer:. \
 My passion lies in **solving complex problems with simple solutions** :bulb:. \
 Don't hesitate to reach out and ask any questions :alien:. You can contact me on Discord:
 
-**Discord:** sx66 / $X#9452
+**Discord:**
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5500&pause=1500&color=4AF7ADD6&multiline=true&random=false&width=450&height=25&lines=sx66+%2F+%24X%239452)](https://git.io/typing-svg)
 
 ## Organizations
 
