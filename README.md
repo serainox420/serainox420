@@ -6,9 +6,8 @@ Don't hesitate to reach out and ask any questions :alien:. You can contact me on
 
 **Discord:** sx66 / $X#9452
 
-## Notable Projects
+## Organizations
 
-Check out some of my notable projects:
 - [![GNU-Szmelc](https://img.shields.io/badge/GNU--Szmelc-000000?style=for-the-badge&logo=gnu&logoColor=lime)](https://github.com/GNU-Szmelc)
 - [![Chimera Project](https://img.shields.io/badge/Chimera%20Project-000000?style=for-the-badge&logo=gnu-bash&logoColor=lime)](https://github.com/Chimera-INC)
 
