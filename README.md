@@ -13,7 +13,7 @@ Don't hesitate to reach out and ask any questions :alien:. You can contact me on
 
 - [![GNU-Szmelc](https://img.shields.io/badge/GNU--Szmelc-000000?style=for-the-badge&logo=gnu&logoColor=lime)](https://github.com/GNU-Szmelc)
 - [![Chimera Project](https://img.shields.io/badge/Chimera%20Project-000000?style=for-the-badge&logo=gnu-bash&logoColor=lime)](https://github.com/Chimera-INC)
-
+  
 ## GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=serainox420&hide=php,c,vim%20script,objective-c,actionscript,roff,javascript,html,smali,css,java,&langs_count=3&theme=gotham)
@@ -25,3 +25,5 @@ Don't hesitate to reach out and ask any questions :alien:. You can contact me on
 [![My Stack](https://skillicons.dev/icons?i=linux,c,bash,python,js,html,css,pytorch,qt,selenium,tensorflow,processing,latex,nodejs,gtk,cmake,github,git,githubactions,gitlab,vim,atom,raspberrypi,arduino,&theme=dark)](https://skillicons.dev)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4AF7ADD6&random=false&width=450&lines=%5BSzmelc.INC%5D+~+Gratis+to+uczciwa+cena.)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial+Black&weight=900&size=22&duration=1500&pause=500&color=4FBD83D6&random=false&width=450&height=26&lines=%24+_;%24;%24+_;%24+sudo+szmelc)](https://git.io/typing-svg)
