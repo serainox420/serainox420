@@ -5,16 +5,14 @@ I'm a **Self-Made Software Engineer** and a devoted **Linux Power User** :comput
 My passion lies in **solving complex problems with simple solutions** :bulb:. \
 Don't hesitate to reach out and ask any questions :alien:. You can contact me on Discord:
 
-**Discord:**
+### **Discord:** [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5500&pause=1500&color=4AF7ADD6&multiline=true&random=false&width=450&height=25&lines=sx66+%2F+%24X%239452)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5500&pause=1500&color=4AF7ADD6&multiline=true&random=false&width=450&height=25&lines=sx66+%2F+%24X%239452)](https://git.io/typing-svg)
-
-## Organizations
+### Organizations
 
 - [![GNU-Szmelc](https://img.shields.io/badge/GNU--Szmelc-000000?style=for-the-badge&logo=gnu&logoColor=lime)](https://github.com/GNU-Szmelc)
 - [![Chimera Project](https://img.shields.io/badge/Chimera%20Project-000000?style=for-the-badge&logo=gnu-bash&logoColor=lime)](https://github.com/Chimera-INC)
   
-## GitHub Stats
+### GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=serainox420&theme=tokyonight-duo&hide_border=true&mode=weekly&ring=1FEB61)](https://git.io/streak-stats)
 
@@ -22,7 +20,7 @@ Don't hesitate to reach out and ask any questions :alien:. You can contact me on
 
 ![Silver's GitHub Stats](https://github-readme-stats.vercel.app/api?username=serainox420&show_icons=true&theme=gotham)
 
-## My Beloved Tech Stack ❤️
+### My Beloved Tech Stack ❤️
 
 [![My Stack](https://skillicons.dev/icons?i=linux,c,bash,python,js,html,css,pytorch,qt,selenium,tensorflow,processing,latex,nodejs,gtk,cmake,github,git,githubactions,gitlab,vim,atom,raspberrypi,arduino,&theme=dark)](https://skillicons.dev)
 
