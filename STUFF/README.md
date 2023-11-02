@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=5500&pause=1500&color=4AF7ADD6&multiline=true&random=false&width=450&lines=Hello+World!)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=The+five+boxing+wizards+jump+quickly;How+vexingly+quick+daft+zebras+jump;Quick+fox+jumps+nightly+above+wizard;Sphinx+of+black+quartz%2C+judge+my+vow;Waltz%2C+bad+nymph%2C+for+quick+jigs+vex;Glib+jocks+quiz+nymph+to+vex+dwarf;Jived+fox+nymph+grabs+quick+waltz)](https://git.io/typing-svg)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=500&color=4AF7ADD6&multiline=true&random=false&width=450&lines=Resources!)](https://git.io/typing-svg)
 
 <picture>
@@ -16,4 +18,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial+Black&weight=900&size=22&duration=1500&pause=500&color=4FBD83D6&random=false&width=450&height=26&lines=%24+_;%24;%24+_;%24+sudo+szmelc)](https://git.io/typing-svg)
 
 ```markdown
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=500&pause=666&color=4AF7ADD6&multiline=true&random=true&width=666&height=666&lines=bruh;bruh;bruh)```
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=500&pause=666&color=4AF7ADD6&multiline=true&random=true&width=666&height=666&lines=bruh;bruh;bruh)
+```
+
+
+[![Typing SVG](file://?font=Fira+Code&duration=500&pause=100&color=0AF713&random=false&width=435&lines=1;2;Quick+fox+jumps+nightly+above+wizard;Sphinx+of+black+quartz%2C+judge+my+vow;Waltz%2C+bad+nymph%2C+for+quick+jigs+vex;Glib+jocks+quiz+nymph+to+vex+dwarf;Jived+fox+nymph+grabs+quick+waltz)](https://git.io/typing-svg)
