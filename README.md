@@ -16,6 +16,8 @@ Don't hesitate to reach out and ask any questions :alien:. You can contact me on
   
 ## GitHub Stats
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=serainox420&theme=tokyonight-duo&hide_border=true&mode=weekly&ring=1FEB61)](https://git.io/streak-stats)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=serainox420&hide=php,c,vim%20script,objective-c,actionscript,roff,javascript,html,smali,css,java,&langs_count=3&theme=gotham)
 
 ![Silver's GitHub Stats](https://github-readme-stats.vercel.app/api?username=serainox420&show_icons=true&theme=gotham)
