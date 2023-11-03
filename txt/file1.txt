@@ -1,4 +1,6 @@
-# KAT 2 WAREZ
+.
+.
+[WAREZ]
 https://xaox01.github.io/kiepscy/
 https://fmhy.pages.dev - warez DB
 https://fitgirl-repacks.site - gry
@@ -13,14 +15,16 @@ https://fmhy.pages.dev - zbiór warezów
 https://rentry.co/streambase - zbiór warezów
 https://xaox01.github.io/kiepscy/ - wszystkie odcinki kiepskich
 https://flixwave.to/ - darmowe funkcje premium (?)
-
-# KAT 3 - MEMES
+.
+.
+[MEMES]
 https://ambigram.com.pl/generator-nazwy-firmy/
 https://textart4u.blogspot.com
 https://basedmods.eth.limo - banned game mods
 https://spectrogram.sciencemusic.org - drawing music tool
 https://huggingface.co/spaces/AP123/IllusionDiffusion - Generate stunning high quality illusion artwork
-
+.
+.
 # KAT 4 PROGRAMMING
 https://www.exploit-db.com/shellcodes - exploit database
 https://www.w3.org/WAI/
