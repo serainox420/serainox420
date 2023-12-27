@@ -24,7 +24,7 @@ Don't hesitate to reach out and ask any questions :alien:. You can contact me on
 
 ### My Beloved Tech Stack ❤️
 
-[![My Stack](https://skillicons.dev/icons?i=linux,c,bash,python,js,html,css,pytorch,qt,selenium,tensorflow,processing,latex,nodejs,gtk,cmake,github,git,githubactions,gitlab,vim,atom,raspberrypi,arduino,&theme=dark)](https://skillicons.dev)
+[![My Stack](https://skillicons.dev/icons?i=linux,c,bash,python,js,html,css,pytorch,qt,selenium,processing,latex,nodejs,gtk,cmake,github,git,githubactions,gitlab,vim,atom,raspberrypi,arduino,&theme=dark)](https://skillicons.dev)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4AF7ADD6&random=false&width=450&lines=%5BSzmelc.INC%5D+~+Gratis+to+uczciwa+cena.)](https://git.io/typing-svg)
 
