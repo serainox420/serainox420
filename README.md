@@ -1,19 +1,17 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=5500&pause=1500&color=4AF7ADD6&multiline=true&random=false&width=450&lines=Hello+World!)](https://git.io/typing-svg)
 
-I'm Silverainox, the mind behind GNU Szmelc :tm: \
-I'm a **Self-Made Software Engineer** and a devoted **Linux Power User** :computer:. \
-My passion lies in **solving complex problems with simple solutions** :bulb:. \
-Don't hesitate to reach out and ask any questions :alien:. You can contact me on Discord:
-  
-### **Discord:** [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5500&pause=1500&color=4AF7ADD6&multiline=true&random=false&width=450&height=25&lines=sx66+%2F+%24X%239452)](https://git.io/typing-svg)
+Hi I'm $x66, creator of Szmelc™️ \
+**Software Engineer** and a devoted **Linux Advocate && Power Admin** :computer:. \
+I don't like Microsoft, and no future update ever gonna change that. ( ͠• ͜ʖ ͡•) \
+Contact me only if You have something meaningfull to say. :bulb: \
+Me on **Discord:**  -  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5500&pause=1500&color=4AF7ADD6&multiline=true&random=false&width=450&height=25&lines=sx66+%2F+%24X%239452)](https://git.io/typing-svg)
 
-### Organizations
+### My Projects
+[![GNU-Szmelc](https://img.shields.io/badge/GNU--Szmelc-000000?style=for-the-badge&logo=gnu&logoColor=lime)](https://github.com/GNU-Szmelc) [![Chimera Project](https://img.shields.io/badge/Chimera%20Project-000000?style=for-the-badge&logo=gnu-bash&logoColor=lime)](https://github.com/Chimera-INC)
 
-- [![GNU-Szmelc](https://img.shields.io/badge/GNU--Szmelc-000000?style=for-the-badge&logo=gnu&logoColor=lime)](https://github.com/GNU-Szmelc)
-- [![Chimera Project](https://img.shields.io/badge/Chimera%20Project-000000?style=for-the-badge&logo=gnu-bash&logoColor=lime)](https://github.com/Chimera-INC)
-
-### Website
-- [serainox420](https://serainox420.github.io/)
+### Websites / Domains
+## - [Personal](https://serainox420.github.io/)
+## - [Entropy OS](https://serainox420.github.io/entropy/)
 ### GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=serainox420&theme=tokyonight-duo&hide_border=true&mode=weekly&ring=1FEB61)](https://git.io/streak-stats)
