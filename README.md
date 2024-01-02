@@ -9,9 +9,9 @@ Me on **Discord:**  -  [![Typing SVG](https://readme-typing-svg.demolab.com?font
 ### My Projects
 [![GNU-Szmelc](https://img.shields.io/badge/GNU--Szmelc-000000?style=for-the-badge&logo=gnu&logoColor=lime)](https://github.com/GNU-Szmelc) [![Chimera Project](https://img.shields.io/badge/Chimera%20Project-000000?style=for-the-badge&logo=gnu-bash&logoColor=lime)](https://github.com/Chimera-INC)
 
-### Websites / Domains
-## - [Personal](https://serainox420.github.io/)
-## - [Entropy OS](https://serainox420.github.io/entropy/)
+## Websites / Domains
+### - [Personal](https://serainox420.github.io/)
+### - [Entropy OS](https://serainox420.github.io/entropy)
 ### GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=serainox420&theme=tokyonight-duo&hide_border=true&mode=weekly&ring=1FEB61)](https://git.io/streak-stats)
