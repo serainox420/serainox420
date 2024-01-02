@@ -2,8 +2,8 @@
 
 ## Henlo I'm $x66 
 ### Founder of Szmelc.INC™️
-**Software Engineer** and a devoted **Linux Advocate && Power Admin** :computer: \
-I don't like Microsoft, and no future update ever gonna change that. ( ͠• ͜ʖ ͡•) \
+**Software Engineer** + **Linux/GNU Enjoyer && Power Admin** :computer: \
+I don't like Microsoft, and no future update ever gonna change that Bill... ( ͠• ͜ʖ ͡•) \
 I love my software like my coffe. Without someone's cock in it.
 
 Me on **Discord:**  -  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5500&pause=1500&color=4AF7ADD6&multiline=true&random=false&width=450&height=25&lines=sx66+%2F+%24X%239452)](https://git.io/typing-svg)
