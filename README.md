@@ -4,6 +4,7 @@
 ### Founder of Szmelc.INC™️ & Creator of Entropy Linux
 **Software Engineer** & **Linux/GNU Enjoyer && Power user** :computer:
 
+
 Me on **Discord:**  -  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5500&pause=1500&color=4AF7ADD6&multiline=true&random=false&width=450&height=25&lines=sx66+%2F+%24X%239452)](https://git.io/typing-svg)
 
 ### My Projects
@@ -27,3 +28,5 @@ Me on **Discord:**  -  [![Typing SVG](https://readme-typing-svg.demolab.com?font
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4AF7ADD6&random=false&width=450&lines=%5BSzmelc.INC%5D+~+Gratis+to+uczciwa+cena.)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial+Black&weight=900&size=22&duration=1500&pause=500&color=4FBD83D6&random=false&width=450&height=26&lines=%24+_;%24;%24+_;%24+sudo+szmelc)](https://git.io/typing-svg)
+
+[My profile picture looks like this to make it easier for you to reverse image search me]
